@@ -13,7 +13,7 @@ replicas:
 
 images:
   - name: nginx
-    newTag: 1.27.5
+    newTag: version-inexistante-999
 
 commonAnnotations:
   environment: development
